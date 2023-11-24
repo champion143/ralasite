@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6fc978db.css",
+    "main.js": "/static/js/main.fce23c3f.js",
+    "static/js/787.d8a0fdde.chunk.js": "/static/js/787.d8a0fdde.chunk.js",
+    "static/media/faster_hiring.png": "/static/media/faster_hiring.cbfd55fa57c42fc151de.png",
+    "static/media/rala_portal_logo.png": "/static/media/rala_portal_logo.828b0418fe1a208e7031.png",
+    "static/media/default-edit-profile-picture.png": "/static/media/default-edit-profile-picture.1e254d11f46df1d773ac.png",
+    "static/media/Vienna-Modern-Resume-Template.pdf": "/static/media/Vienna-Modern-Resume-Template.f175ced8358f1f15d247.pdf",
+    "index.html": "/index.html",
+    "static/media/Sample_CSV_format.csv": "/static/media/Sample_CSV_format.83d61c42f6e74d16c679.csv",
+    "main.6fc978db.css.map": "/static/css/main.6fc978db.css.map",
+    "main.fce23c3f.js.map": "/static/js/main.fce23c3f.js.map",
+    "787.d8a0fdde.chunk.js.map": "/static/js/787.d8a0fdde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc978db.css",
+    "static/js/main.fce23c3f.js"
+  ]
+}
